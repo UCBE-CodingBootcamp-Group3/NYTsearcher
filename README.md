@@ -57,4 +57,4 @@ Here we can list any icebox ideas we were not able to get to during the project 
 
 Wether you use this project, have learned something from it, or just like it, please consider supporting it by buying us a coffee, so we can dedicate more time on open-source projects like this :)
 
-<a href="buymeacoff.ee/WFJGY849o" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/WFJGY849o" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
