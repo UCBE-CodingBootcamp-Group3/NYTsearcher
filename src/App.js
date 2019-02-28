@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div>
         <Container fluid>
-          <Nav children="Welcome To This React App!" />
+          <Nav children="Welcome To The Project 3 Home Page!" />
           <Jumbotron>
             <Row>
               <Col size="md-12">
