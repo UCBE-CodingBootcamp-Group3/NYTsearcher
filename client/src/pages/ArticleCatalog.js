@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
 
-class App extends Component {
+class ArticleCatalog extends Component {
   constructor(props) {
     super(props);
     this.state = {
