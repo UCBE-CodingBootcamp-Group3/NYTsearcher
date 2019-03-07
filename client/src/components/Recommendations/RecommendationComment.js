@@ -27,7 +27,6 @@ export class RecommendationComment extends Component {
     handleSubmit(event) {
         //API.getUser()
         event.preventDefault();
-        
     }
     render() {
         return (
